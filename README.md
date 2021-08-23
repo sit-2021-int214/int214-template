@@ -3,6 +3,8 @@ Datasets from: [name](link)
 
 ## Objective
 
+## Process
+
 ## About Us
 งานนี้เป็นส่วนของวิชา INT214 Statistics for Information technology <br/> ภาคเรียนที่ 1 ปีการศึกษา 2564 คณะเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี
 ### Team: xxxxxxx
