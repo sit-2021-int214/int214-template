@@ -14,7 +14,7 @@ Datasets from: [Finance & Accounting Courses - Udemy (13K+ course)](https://www.
 
 ### Team: nameXXXXXX
 
-1. นาย อภิสิทธิ์ ลอมโฮม StudentID: 62130500133
+1. ชื่อ นามสกุล StudentID: 62130500133
 2. ชื่อ นามสกุล StudentID: 63130500xxx
 3. ชื่อ นามสกุล StudentID: 63130500xxx
 4. ชื่อ นามสกุล StudentID: 63130500xxx
