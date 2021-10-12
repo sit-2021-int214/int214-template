@@ -24,6 +24,10 @@ library(name)
 dataset <- read_csv("")
 ```
 
+In this dataset has .....
+
+
+
 ## Part 2: Learning function from Tidyverse
 
 - Function `select()` from package [dplyr](https://dplyr.tidyverse.org/articles/dplyr.html#select-columns-with-select)). It using for select columns
@@ -31,7 +35,7 @@ dataset <- read_csv("")
 ```
 starwars %>% select(name,height)
 ```
-
+** You can sepearate this part or combine in part of `Transform data with dplyr and finding insight the data`
 
 ## Part 3: Transform data with dplyr and finding insight the data
 
@@ -52,3 +56,19 @@ Result:
 - list 2
 
 ## Part 4: Visualization with GGplot2
+### 1.) Graph show relation between height and mass
+```
+scat_plot <- starwars %>% filter(mass<500) %>% ggplot(aes(x=height,y=mass))+
+  geom_point(aes(color=gender))
+
+scat_plot+geom_smooth()
+```
+Result:
+
+![Graph 1](graph1.png)
+
+**Guideline:
+Embed Image by using this syntax in markdown file
+````
+![Name](imageFile)
+````
