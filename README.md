@@ -24,7 +24,7 @@ E.g. กลุ่มของเราเลือกชุดข้อมูล
 ## Table of Contents
 
 1. [Exploratory Data Analysis](./01_explore.md)
-2. [Data Visualization]()
+2. [Data Visualization]() ---> อันนี้เป็นงานของ Final Assignment นะครับพี่แค่แปะหัวข้อตัวอย่างไว้
 
 ## Resources
 
